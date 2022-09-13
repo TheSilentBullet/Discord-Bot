@@ -11,4 +11,4 @@ The dependencies are:
     
     Discord API version: 10
 
-Future commands will be added as soon as finish testing the ones in development.
+Future commands will be added as soon as I finish testing the ones I have in development.
